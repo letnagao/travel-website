@@ -64,7 +64,7 @@ function Footer() {
           <div class='social-media-wrap'>
             <div class='footer-logo'>
               <Link to='/' className='social-logo'>
-                TRVL
+                TRVL 
                 <i class='fab fa-typo3' />
               </Link>
             </div>
