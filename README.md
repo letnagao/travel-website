@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+## Travel Website 🎯
+Travel Website is a React application that uses React Hooks and React Router for this beginner React JS Project. The website is fully responsive as well.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+![Language count](https://img.shields.io/github/languages/count/letnagao/travel-website?color=green)
+![Top language](https://img.shields.io/github/languages/top/letnagao/travel-website?color=ff69b4)
+![Repo size](https://img.shields.io/github/repo-size/letnagao/travel-website?color=yellow)
+![Commit Activity](https://img.shields.io/github/commit-activity/y/letnagao/travel-website?color=blue)
+![Latest commit](https://img.shields.io/github/last-commit/letnagao/travel-website?color=red)
+[![GitHub watchers](https://img.shields.io/github/watchers/letnagao/travel-website?logo=GitHub)](https://github.com/letnagao/travel-website/watchers)
+![Maintained](https://img.shields.io/maintenance/yes/9999)
 
-In the project directory, you can run:
+</ul><h2>Technologies Used 🛠️</h2>
+<ul>
+<li>HTML</li>
+</ul><ul>
+<li>CSS</li>
+</ul><ul>
+<li>JavaScript</li>
+</ul><ul>
+<li>ReactJS</li>
+</ul><ul>
+  
+</ul><h2> Preview 🔥</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99754900/173213237-31dc7bf7-3b1a-4ff6-ad84-b893385d15fd.jpeg" />
+</p>  
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+</ul><h2> Features 🔥</h2>
+✔️ Class and Functional Components <br />
+✔️ State and Props <br />
+✔️ Component Lifecycle Methods <br />
+✔️ React Hooks <br />
+✔️ Promises <br />
+✔️ React Router <br />
+  
+## Usage 📋
+<p>To run this project in your device,clone the repository and open terminal in your editor. Followig are the requirements to run this project:</p><h5>Code Examples</h5><ul>
+<li>Clone the project</li>
+</ul><p><code>git clone https://github.com/letnagao/travel-website.git </code></p><ul>
+<li>Go to the project directory</li>
+</ul><p><code>cd travel-website </code></p><ul>
+<li>Install dependencies</li>
+</ul><p><code>npm install </code></p><ul>
+<li>Start the server</li>
+</ul><p><code>npm start</code></p>
