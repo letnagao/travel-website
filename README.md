@@ -46,3 +46,16 @@ Travel Website is a React application that uses React Hooks and React Router for
 </ul><p><code>npm install </code></p><ul>
 <li>Start the server</li>
 </ul><p><code>npm start</code></p>
+
+## Disclamer ❗️
+A word of disclaimer, I may have made some changes to it or added other content, but the code is not completely original!
+I am simply a student passionate about Front-end and the intersection of code and design, I always try to do courses and projects during my free time, so I must warn you that this code is NOT ORIGINAL.
+
+You can find the source of this code via: https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A
+
+## Contributing 💡
+Pull request are welcome but please open an issue and discuss what you will do before 😊
+
+## Like this project? 💖
+
+If you are feeling generous, buy me a coffee! - https://www.buymeacoffee.com/lunagao
