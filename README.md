@@ -21,7 +21,7 @@ Travel Website is a React application that uses React Hooks and React Router for
 <li>ReactJS</li>
 </ul><ul>
   
-</ul><h2> Preview 🔥</h2>
+</ul><h2> Preview ⚡️</h2>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/99754900/173213237-31dc7bf7-3b1a-4ff6-ad84-b893385d15fd.jpeg" />
 </p>  
